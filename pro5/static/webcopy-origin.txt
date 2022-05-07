@@ -1,0 +1,528 @@
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718.html
+Content Type: text/html
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\themeforest.net\icons\themeforest.net\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\themeforest.net\icons\themeforest.net\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Downloaded Web Sites\themeforest.net\icons\themeforest.net\apple-touch-icon-144x144-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/icons/themeforest.net/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\themeforest.net\icons\themeforest.net\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/market/core/index-c4db82a659ecd08ee555dd4abcfc2185d40aae1801181c443b3615f880bbf81f.css
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\core\index-c4db82a659ecd08ee555dd4abcfc2185d40aae1801181c443b3615f880bbf81f.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/assets/market/pages/default/index-822c7fa7fde5cc2463b386c5f722fa933a9b627b06f8cdc54bb82f7a5328989b.css
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\pages\default\index-822c7fa7fde5cc2463b386c5f722fa933a9b627b06f8cdc54bb82f7a5328989b.css
+Content Type: text/css
+
+Uri: https://codecanyon.net/?auto_signin=true
+File Name: C:\Downloaded Web Sites\themeforest.net\index.htm
+Content Type: text/html
+
+Uri: https://videohive.net/?auto_signin=true
+File Name: C:\Downloaded Web Sites\themeforest.net\index-1.htm
+Content Type: text/html
+
+Uri: https://audiojungle.net/?auto_signin=true
+File Name: C:\Downloaded Web Sites\themeforest.net\index-2.htm
+Content Type: text/html
+
+Uri: https://graphicriver.net/?auto_signin=true
+File Name: C:\Downloaded Web Sites\themeforest.net\index-3.htm
+Content Type: text/html
+
+Uri: https://photodune.net/?auto_signin=true
+File Name: C:\Downloaded Web Sites\themeforest.net\index-4.htm
+Content Type: text/html
+
+Uri: https://3docean.net/?auto_signin=true
+File Name: C:\Downloaded Web Sites\themeforest.net\index-5.htm
+Content Type: text/html
+
+Uri: https://codecanyon.net/category/wordpress
+File Name: C:\Downloaded Web Sites\themeforest.net\category\wordpress.html
+Content Type: text/html
+
+Uri: https://codecanyon.net/category/wordpress?compatible_with=Elementor&sort=trending&tags=elementor
+File Name: C:\Downloaded Web Sites\themeforest.net\category\wordpress-1.html
+Content Type: text/html
+
+Uri: https://placeit.net/logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/business-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=business-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\business-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/make-a-gaming-logo?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=gaming-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\make-a-gaming-logo.html
+Content Type: text/html
+
+Uri: https://placeit.net/twitch-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=twitch-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\twitch-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/make-your-own-sports-logo-design?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=sports-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\make-your-own-sports-logo-design.html
+Content Type: text/html
+
+Uri: https://placeit.net/real-estate-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=real-estate-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\real-estate-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/make-a-medical-logo?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=medical-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\make-a-medical-logo.html
+Content Type: text/html
+
+Uri: https://placeit.net/service-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=service-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\service-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/fitness-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=fitness-brand-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\fitness-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/clothing-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=clothing-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\clothing-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/restaurant-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=restaurant-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\restaurant-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/bar-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=bar-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\bar-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/beauty-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=beauty-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\beauty-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/bakery-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=bakery-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\bakery-logo-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/youtube-logo-maker?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-menu-logo&utm_content=youtube-logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\youtube-logo-maker.html
+Content Type: text/html
+
+Uri: https://elements.envato.com/extensions/wordpress
+File Name: C:\Downloaded Web Sites\themeforest.net\extensions\wordpress.html
+Content Type: text/html
+
+Uri: https://forums.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-6.htm
+Content Type: text/html
+
+Uri: https://author.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-7.htm
+Content Type: text/html
+
+Uri: https://elements.envato.com/?utm_source=Market&utm_medium=promos&utm_campaign=elements_mkt-headernav_our_products&utm_content=headernav
+File Name: C:\Downloaded Web Sites\themeforest.net\index-8.htm
+Content Type: text/html
+
+Uri: https://studio.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-9.htm
+Content Type: text/html
+
+Uri: https://tutsplus.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-10.htm
+Content Type: text/html
+
+Uri: https://placeit.net/?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-headernav&utm_content=headernav_our_products
+File Name: C:\Downloaded Web Sites\themeforest.net\index-11.htm
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/support
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\support.html
+Content Type: text/html
+
+Uri: https://s3.envato.com/files/383123905/thumb.png
+File Name: C:\Downloaded Web Sites\themeforest.net\files\383123905\thumb.png
+Content Type: image/png
+
+Uri: https://elements.envato.com/pricing?utm_campaign=elements_mkt-footer_17JULY2018&utm_content=tf_global-footer&utm_medium=promos&utm_source=themeforest.net
+File Name: C:\Downloaded Web Sites\themeforest.net\pricing.html
+Content Type: text/html
+
+Uri: https://videohive.net/category/after-effects-project-files
+File Name: C:\Downloaded Web Sites\themeforest.net\category\after-effects-project-files.html
+Content Type: text/html
+
+Uri: https://videohive.net/category/apple-motion-templates
+File Name: C:\Downloaded Web Sites\themeforest.net\category\apple-motion-templates.html
+Content Type: text/html
+
+Uri: https://videohive.net/tags/effects
+File Name: C:\Downloaded Web Sites\themeforest.net\tags\effects.html
+Content Type: text/html
+
+Uri: https://videohive.net/category/stock-footage
+File Name: C:\Downloaded Web Sites\themeforest.net\category\stock-footage.html
+Content Type: text/html
+
+Uri: https://audiojungle.net/category/music
+File Name: C:\Downloaded Web Sites\themeforest.net\category\music.html
+Content Type: text/html
+
+Uri: https://audiojungle.net/category/sound
+File Name: C:\Downloaded Web Sites\themeforest.net\category\sound.html
+Content Type: text/html
+
+Uri: https://audiojungle.net/popular_item/by_category?category=music
+File Name: C:\Downloaded Web Sites\themeforest.net\popular_item\by_category.html
+Content Type: text/html
+
+Uri: https://audiojungle.net/category/source-files/logic-pro
+File Name: C:\Downloaded Web Sites\themeforest.net\category\source-files\logic-pro.html
+Content Type: text/html
+
+Uri: https://audiojungle.net/tags/background
+File Name: C:\Downloaded Web Sites\themeforest.net\tags\background.html
+Content Type: text/html
+
+Uri: https://codecanyon.net/category/php-scripts
+File Name: C:\Downloaded Web Sites\themeforest.net\category\php-scripts.html
+Content Type: text/html
+
+Uri: https://codecanyon.net/category/javascript
+File Name: C:\Downloaded Web Sites\themeforest.net\category\javascript.html
+Content Type: text/html
+
+Uri: https://codecanyon.net/category/css
+File Name: C:\Downloaded Web Sites\themeforest.net\category\css.html
+Content Type: text/html
+
+Uri: https://codecanyon.net/category/plugins/prestashop
+File Name: C:\Downloaded Web Sites\themeforest.net\category\plugins\prestashop.html
+Content Type: text/html
+
+Uri: https://placeit.net/logo-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\logo-maker-1.html
+Content Type: text/html
+
+Uri: https://placeit.net/video-maker
+File Name: C:\Downloaded Web Sites\themeforest.net\video-maker.html
+Content Type: text/html
+
+Uri: https://placeit.net/c/design-templates/?f_devices=t-shirt design&h=35
+File Name: C:\Downloaded Web Sites\themeforest.net\c\design-templates\index.htm
+Content Type: text/html
+
+Uri: https://placeit.net/free-templates
+File Name: C:\Downloaded Web Sites\themeforest.net\free-templates.html
+Content Type: text/html
+
+Uri: https://placeit.net/c/mockups
+File Name: C:\Downloaded Web Sites\themeforest.net\c\mockups.html
+Content Type: text/html
+
+Uri: https://placeit.net/image-cropper
+File Name: C:\Downloaded Web Sites\themeforest.net\image-cropper.html
+Content Type: text/html
+
+Uri: https://placeit.net/video-cropper
+File Name: C:\Downloaded Web Sites\themeforest.net\video-cropper.html
+Content Type: text/html
+
+Uri: https://placeit.net/video-to-gif-converter
+File Name: C:\Downloaded Web Sites\themeforest.net\video-to-gif-converter.html
+Content Type: text/html
+
+Uri: https://elements.envato.com/wordpress/themes
+File Name: C:\Downloaded Web Sites\themeforest.net\wordpress\themes.html
+Content Type: text/html
+
+Uri: https://elements.envato.com/photos
+File Name: C:\Downloaded Web Sites\themeforest.net\photos.html
+Content Type: text/html
+
+Uri: https://elements.envato.com/web-templates/site-templates
+File Name: C:\Downloaded Web Sites\themeforest.net\web-templates\site-templates.html
+Content Type: text/html
+
+Uri: https://elements.envato.com/graphic-templates/logos
+File Name: C:\Downloaded Web Sites\themeforest.net\graphic-templates\logos.html
+Content Type: text/html
+
+Uri: https://elements.envato.com/fonts
+File Name: C:\Downloaded Web Sites\themeforest.net\fonts.html
+Content Type: text/html
+
+Uri: https://design.tutsplus.com/categories/adobe-photoshop
+File Name: C:\Downloaded Web Sites\themeforest.net\categories\adobe-photoshop.html
+Content Type: text/html
+
+Uri: https://code.tutsplus.com/categories/javascript
+File Name: C:\Downloaded Web Sites\themeforest.net\categories\javascript.html
+Content Type: text/html
+
+Uri: https://code.tutsplus.com/categories/wordpress
+File Name: C:\Downloaded Web Sites\themeforest.net\categories\wordpress.html
+Content Type: text/html
+
+Uri: https://tutsplus.com/tutorials
+File Name: C:\Downloaded Web Sites\themeforest.net\tutorials.html
+Content Type: text/html
+
+Uri: https://code.tutsplus.com/tutorials
+File Name: C:\Downloaded Web Sites\themeforest.net\tutorials-1.html
+Content Type: text/html
+
+Uri: https://build.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-13.htm
+Content Type: text/html
+
+Uri: https://help.author.envato.com/hc/en-us
+File Name: C:\Downloaded Web Sites\themeforest.net\hc\en-us-1.html
+Content Type: text/html
+
+Uri: https://community.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-14.htm
+Content Type: text/html
+
+Uri: https://elements.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-16.htm
+Content Type: text/html
+
+Uri: https://placeit.net/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-17.htm
+Content Type: text/html
+
+Uri: https://milkshake.app/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-18.htm
+Content Type: text/html
+
+Uri: https://twitter.com/envato
+File Name: C:\Downloaded Web Sites\themeforest.net\envato.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/envato
+File Name: C:\Downloaded Web Sites\themeforest.net\envato-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/user/Envato
+File Name: C:\Downloaded Web Sites\themeforest.net\user\Envato.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/envato/
+File Name: C:\Downloaded Web Sites\themeforest.net\envato\index.htm
+Content Type: text/html
+
+Uri: https://public-assets.envato-static.com/assets/market/core/rollbar-a86e443338a6e0f95d27d14cc8449828a6d2579281d3dc368a02c07743ab099c.js
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\core\rollbar-a86e443338a6e0f95d27d14cc8449828a6d2579281d3dc368a02c07743ab099c.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/core/head-df4183f2f1b84caa8ad6707c533e562f18a9eaae2b2e4d2081cf439c23343ad3.js
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\core\head-df4183f2f1b84caa8ad6707c533e562f18a9eaae2b2e4d2081cf439c23343ad3.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/common/transparent-1px-93ae7d494fad0fb30cbf3ae746a39c4bc7a0f8bbf87fbb587a3f3c01f3c5ce20.png
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\common\transparent-1px-93ae7d494fad0fb30cbf3ae746a39c4bc7a0f8bbf87fbb587a3f3c01f3c5ce20.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/logos/envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\logos\envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg
+Content Type: image/svg+xml
+
+Uri: https://themeforest.img.customer.envatousercontent.com/files/359704970/01_alioth.__large_preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5b4a307497e1742985e3dcb6e56f47de
+File Name: C:\Downloaded Web Sites\themeforest.net\files\359704970\01_alioth.__large_preview.jpg
+Content Type: image/jpeg
+
+Uri: https://public-assets.envato-static.com/assets/header-footer/logo-bcorp-fbdd18d9fd7274a0e6591e67408e26c55df20358c3c4eee496117b16874e1749.svg
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\header-footer\logo-bcorp-fbdd18d9fd7274a0e6591e67408e26c55df20358c3c4eee496117b16874e1749.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/market/core/index-6bbbe00a15b4cda3883fa08ca217d4a3907b425c5af6622861125ebb3aacc9c2.js
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\core\index-6bbbe00a15b4cda3883fa08ca217d4a3907b425c5af6622861125ebb3aacc9c2.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/pages/default/index-9baae6a0200b4c6cde2809cce16be76559308a01e9b060bfd2e073c3a9be6a06.js
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\pages\default\index-9baae6a0200b4c6cde2809cce16be76559308a01e9b060bfd2e073c3a9be6a06.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/core/lazyload-d32acbbc193ba843927175d43ecdc442a0f9dc9c4f9eca8172c201ca29cd4bab.js
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\core\lazyload-d32acbbc193ba843927175d43ecdc442a0f9dc9c4f9eca8172c201ca29cd4bab.js
+Content Type: application/javascript
+
+Uri: https://consent.cookiebot.com/uc.js
+File Name: C:\Downloaded Web Sites\themeforest.net\uc.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/core/standardised_google_analytics_helpers-2a0d6d0a6b9087b30b4be07688eb3acaa6d4fed95642c7ea8e010d29a5ccec5c.js
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\market\core\standardised_google_analytics_helpers-2a0d6d0a6b9087b30b4be07688eb3acaa6d4fed95642c7ea8e010d29a5ccec5c.js
+Content Type: application/javascript
+
+Uri: https://themeforest.img.customer.envatousercontent.com/files/359704970/01_alioth.__large_preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=6780&max-w=500&s=4e71228529041ceba4d91e0816b73a45
+File Name: C:\Downloaded Web Sites\themeforest.net\files\359704970\01_alioth.__large_preview-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themeforest.img.customer.envatousercontent.com/files/359704970/01_alioth.__large_preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=5424&max-w=400&s=d1ccb483395dabf2246c9c4c3275d6d9
+File Name: C:\Downloaded Web Sites\themeforest.net\files\359704970\01_alioth.__large_preview-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themeforest.img.customer.envatousercontent.com/files/359704970/01_alioth.__large_preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=4068&max-w=300&s=0efcc3acca7cce842d81bab5d1b58420
+File Name: C:\Downloaded Web Sites\themeforest.net\files\359704970\01_alioth.__large_preview-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?page=2
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-1.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?page=1
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-3.html
+Content Type: text/html
+
+Uri: https://public-assets.envato-static.com/assets/common/icons-buttons/default-user-2962fd43ee315eafee8bfc08f02fee84687beb0499de44e5ab2873399944b0fe.jpg
+File Name: C:\Downloaded Web Sites\themeforest.net\assets\common\icons-buttons\default-user-2962fd43ee315eafee8bfc08f02fee84687beb0499de44e5ab2873399944b0fe.jpg
+Content Type: image/jpeg
+
+Uri: http://preview.themeforest.net/item/alioth-agency-portfolio-showcase-template/full_screen_preview/34259718
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\full_screen_preview\34259718.html
+Content Type: text/html
+
+Uri: https://alioth-html.pethemes.com/docs/
+File Name: C:\Downloaded Web Sites\themeforest.net\docs\index.htm
+Content Type: text/html
+
+Uri: https://help.market.envato.com/hc/en-us
+File Name: C:\Downloaded Web Sites\themeforest.net\hc\en-us.html
+Content Type: text/html
+
+Uri: https://placeit.net/?utm_campaign=placeit_mkt-footer_July2019&utm_content=tf_global-footer&utm_medium=promos&utm_source=themeforest.net
+File Name: C:\Downloaded Web Sites\themeforest.net\index-12.htm
+Content Type: text/html
+
+Uri: https://studio.envato.com/explore/wordpress?utm_campaign=internal+navigation&utm_content=footernav&utm_medium=themeforest&utm_source=marketplaces
+File Name: C:\Downloaded Web Sites\themeforest.net\explore\wordpress.html
+Content Type: text/html
+
+Uri: https://mixkit.co/free-stock-video/?utm_medium=promos&utm_source=envatoquicklinks&utm_campaign=mixkit_mkt-quicklinks&utm_content=free_stock_video_footage_quick-links
+File Name: C:\Downloaded Web Sites\themeforest.net\free-stock-video\index.htm
+Content Type: text/html
+
+Uri: https://www.envato.com/affiliates/
+File Name: C:\Downloaded Web Sites\themeforest.net\affiliates\affiliates
+Content Type: text/html
+
+Uri: https://www.envato.com/blog/
+File Name: C:\Downloaded Web Sites\themeforest.net\blog\blog
+Content Type: text/html
+
+Uri: https://www.envato.com/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-15.htm
+Content Type: text/html
+
+Uri: https://www.envato.com/about/careers/
+File Name: C:\Downloaded Web Sites\themeforest.net\about\careers\careers
+Content Type: text/html
+
+Uri: https://www.envato.com/privacy/
+File Name: C:\Downloaded Web Sites\themeforest.net\privacy\privacy
+Content Type: text/html
+
+Uri: https://www.envato.com/sitemap/
+File Name: C:\Downloaded Web Sites\themeforest.net\sitemap\sitemap
+Content Type: text/html
+
+Uri: https://www.bcorporation.net/find-a-b-corp/company/envato
+File Name: C:\Downloaded Web Sites\themeforest.net\find-a-b-corp\company\envato.html
+Content Type: text/html
+
+Uri: https://www.envato.com/products/
+File Name: C:\Downloaded Web Sites\themeforest.net\products\products
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?page=3
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-4.html
+Content Type: text/html
+
+Uri: https://prnt.sc/KmItaF9zCdGd
+File Name: C:\Downloaded Web Sites\themeforest.net\KmItaF9zCdGd.html
+Content Type: text/html
+
+Uri: https://prnt.sc/2_CsjYmPwmsO
+File Name: C:\Downloaded Web Sites\themeforest.net\2_CsjYmPwmsO.html
+Content Type: text/html
+
+Uri: https://prnt.sc/iqRINss7fvH4
+File Name: C:\Downloaded Web Sites\themeforest.net\iqRINss7fvH4.html
+Content Type: text/html
+
+Uri: https://prnt.sc/qbEyFfVz2cKX
+File Name: C:\Downloaded Web Sites\themeforest.net\qbEyFfVz2cKX.html
+Content Type: text/html
+
+Uri: https://prnt.sc/uogtFSuCQr80
+File Name: C:\Downloaded Web Sites\themeforest.net\uogtFSuCQr80.html
+Content Type: text/html
+
+Uri: https://prnt.sc/kZdIYbWnZC_F
+File Name: C:\Downloaded Web Sites\themeforest.net\kZdIYbWnZC_F.html
+Content Type: text/html
+
+Uri: https://prnt.sc/hu-aCDUs4NWW
+File Name: C:\Downloaded Web Sites\themeforest.net\hu-aCDUs4NWW.html
+Content Type: text/html
+
+Uri: https://themeforest.net/images/smileys/happy.png
+File Name: C:\Downloaded Web Sites\themeforest.net\images\smileys\happy.png
+Content Type: image/png
+
+Uri: https://themeforest.net/images/smileys/wink.png
+File Name: C:\Downloaded Web Sites\themeforest.net\images\smileys\wink.png
+Content Type: image/png
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?page=3&filter=all
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-2.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?filter=all&page=2
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-6.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?filter=all&page=1
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-7.html
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\themeforest.net\index-19.htm
+Content Type: text/html
+
+Uri: https://locomotivemtl.github.io/locomotive-scroll/
+File Name: C:\Downloaded Web Sites\themeforest.net\locomotive-scroll\index.htm
+Content Type: text/html
+
+Uri: https://themeforest.net/images/smileys/laugh.png
+File Name: C:\Downloaded Web Sites\themeforest.net\images\smileys\laugh.png
+Content Type: image/png
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?page=2&filter=all
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-5.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?filter=all&page=3
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-9.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/alioth-agency-portfolio-showcase-template/34259718/comments?page=1&filter=all
+File Name: C:\Downloaded Web Sites\themeforest.net\item\alioth-agency-portfolio-showcase-template\34259718\comments-8.html
+Content Type: text/html
+
